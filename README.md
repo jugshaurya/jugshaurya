@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Shaurya Singhal</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jugshaurya&label=Profile Views&color=pink&style=plastic" alt="jugshaurya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jugshaurya&label=Profile Views&color=blue&style=plastic" alt="jugshaurya" /> </p>
 
 ### Experience/Achievements/Recent Failures
 
@@ -11,6 +11,7 @@
   - [**@codingBlocks**](https://github.com/coding-blocks) : Last Contribution in 2020. **12 Merged PRs** so far.
     - [**Ranked 6th in BOSS'20**](https://boss.codingblocks.com/leaderboard/2020)
 - Cleared **Gate'21 with AIR 2547**.
+- Udacity Nanodegree Graduate | React 
 - **Recent Failure: GSOC'21**. Couldn't get a slot. Will try in 2022💎.
 
 ### About me
@@ -80,4 +81,4 @@
 [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/jugshaurya)
 [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/jugshaurya)
 [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/jugshaurya)
-[<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://jugshaurya.medium.com/)
+[<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@shauryasinghal84)
