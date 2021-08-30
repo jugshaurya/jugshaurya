@@ -20,7 +20,7 @@
 - 🌱 I’m currently learning anything _related to Javascript, GraphQL, React, Competitive Programming, Problem Solving._
 - 🤔 Anyone looking for help can reach out.
 - 📫 How to reach me: Email me at - **shauryasinghal84@gmail.com**
-- ⚡ Fun fact: _I love JavaScript ❤️ & currently in relationship with C++._
+- ⚡ Fun fact: _I love JavaScript ❤️ but currently in relationship with C++._
 
 ## Read Notes to quickly revise Topics - Will be posted on Personal Website later, for now read as markdown on Github.
 
@@ -80,5 +80,8 @@
 [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/jugshaurya)
 [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/jugshaurya)
 [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/jugshaurya)
-[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/jugshaurya)
 [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@shauryasinghal84)
+[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/jugshaurya)
+[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Codechef.svg" alt="Codechef Logo" width="30">](https://www.codechef.com/users/jugshaurya)
+[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Codeforces.svg" alt="Codeforces Logo" width="30">](https://codeforces.com/profile/jugshaurya)
+[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Leetcode.svg" alt="Leetcode Logo" width="30">](https://www.leetcode.com/jugshaurya)
