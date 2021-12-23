@@ -7,7 +7,7 @@
 
 - I am a **M.C.A 2rd Year Computer Science Student** @ University of Delhi, Department of Computer Science.
 - **Open source contributor** at
-  - [**@react-native-elements**](https://github.com/react-native-elements) : Last Contribution in 2021, **3 Merged PRs** , 5+ Pending PR so far.
+  - [**@react-native-elements**](https://github.com/react-native-elements) : Last Contribution in 2021, [**3 Merged PRs**](https://github.com/react-native-elements/playground/commits?author=jugshaurya) + [**1 Merged PRs**](https://github.com/react-native-elements/react-native-elements/commits?author=jugshaurya) , 5+ Pending PR so far.
   - [**@codingBlocks**](https://github.com/coding-blocks) : Last Contribution in 2020. **12 Merged PRs** so far.
     - [**Ranked 6th in BOSS'20**](https://boss.codingblocks.com/leaderboard/2020)
 - Cleared **Gate'21 with AIR 2547**.
