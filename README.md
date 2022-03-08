@@ -7,12 +7,12 @@
 
 - I am a **M.C.A 2rd Year Computer Science Student** @ University of Delhi, Department of Computer Science.
 - **Open source contributor** at
-  - [**@react-native-elements**](https://github.com/react-native-elements) : Last Contribution in 2021, [**9 Merged PRs**](https://github.com/react-native-elements/playground/commits?author=jugshaurya) + [**1 Merged PRs**](https://github.com/react-native-elements/react-native-elements/commits?author=jugshaurya) , 5+ Pending PR so far.
+  - [**@react-native-elements**](https://github.com/react-native-elements) : Last Contribution in 2021 end, [**9 Merged PRs**](https://github.com/react-native-elements/playground/commits?author=jugshaurya) + [**1 Merged PRs**](https://github.com/react-native-elements/react-native-elements/commits?author=jugshaurya) , 5+ Pending PR so far.
   - [**@codingBlocks**](https://github.com/coding-blocks) : Last Contribution in 2020. **12 Merged PRs** so far.
     - [**Ranked 6th in BOSS'20**](https://boss.codingblocks.com/leaderboard/2020)
 - Cleared **Gate'21 with AIR 2547**.
 - Udacity Nanodegree Graduate | React 
-- **Recent Failure: GSOC'21**. Couldn't get a slot. Will try in 2022💎.
+- **Recent Failure: GSOC'21**. Couldn't get a slot. Will try again someday💎 as now it is open to everyone and not just students.
 
 ### About me
 
@@ -20,20 +20,27 @@
 - 🌱 I’m currently learning anything _related to Javascript, GraphQL, React, Competitive Programming, Problem Solving._
 - 🤔 Anyone looking for help can reach out.
 - 📫 How to reach me: Email me at - **shauryasinghal84@gmail.com**
+- 📫 Visit my Portfolio - **https://www.jugshaurya.in/**
 - ⚡ Fun fact: _I love JavaScript ❤️ but currently in relationship with C++._
 
-## Read Notes to quickly revise Topics - Will be posted on Personal Website later, for now read as markdown on Github.
+## Read Notes to quickly revise vaious Topics 
+- visit my notes website @https://notes.jugshaurya.in/.
 
-- [CPP](https://github.com/jugshaurya/showcase/blob/master/mdx-blogs/cpp.md)
-- [Algorithms](https://github.com/jugshaurya/showcase/blob/master/mdx-blogs/algo.md)
-- [Gatsby](https://github.com/jugshaurya/showcase/blob/master/mdx-blogs/gatsby.md)
-- [Aptitude](https://github.com/jugshaurya/showcase/blob/master/mdx-blogs/aptitude.md)
-- [STL](https://github.com/jugshaurya/showcase/blob/master/mdx-blogs/stl.md)
+- [STL](https://notes.jugshaurya.in/docs/stl)
+- [CPP](https://notes.jugshaurya.in/docs/cpp)
+- [Algorithms](https://notes.jugshaurya.in/docs/algo)
+- [Advance DS for CP](https://notes.jugshaurya.in/docs/advance-ds_approaches)
+- [Game Theory](https://notes.jugshaurya.in/docs/gameTheory)
+- [Dynamic Programming](https://notes.jugshaurya.in/docs/dp)
+- [Interview Question List](https://notes.jugshaurya.in/docs/questions)
 
-## Learn
+- [Gatsby](https://notes.jugshaurya.in/docs/gatsby)
+- [Postgresql](https://notes.jugshaurya.in/docs/postgresql)
 
-- [Python](https://github.com/jugshaurya/Learn-Python/tree/master/1-Learn-Python)
-- [ML](https://github.com/jugshaurya/Machine-Learning)
+## Wanna Learn latest Tech ?
+
+- [Learn Python](https://github.com/jugshaurya/Learn-Python/tree/master/1-Learn-Python)
+- [Learn ML](https://github.com/jugshaurya/Machine-Learning)
 
 ### 📚 Recent Blog Posts
 
