@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Shaurya Singhal</h1>
+<h1 align="center">Hi 👋, I'm Shaurya Singhal 🇮🇳</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jugshaurya&label=Profile Views&color=blue&style=plastic" alt="jugshaurya" /> </p>
 
@@ -35,7 +35,7 @@
 - [Gatsby](https://notes.jugshaurya.in/docs/gatsby)
 - [Postgresql](https://notes.jugshaurya.in/docs/postgresql)
 
-## Wanna Learn latest Tech ?
+## Wanna Learn the L🇮🇳atest Tech ?
 
 - [Learn Python](https://github.com/jugshaurya/Learn-Python/tree/master/1-Learn-Python)
 - [Learn ML](https://github.com/jugshaurya/Machine-Learning)
