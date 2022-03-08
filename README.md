@@ -24,8 +24,7 @@
 - ⚡ Fun fact: _I love JavaScript ❤️ but currently in relationship with C++._
 
 ## Read Notes to quickly revise vaious Topics 
-- visit my notes website @https://notes.jugshaurya.in/.
-
+##### visit my notes website @https://notes.jugshaurya.in/.
 - [STL](https://notes.jugshaurya.in/docs/stl)
 - [CPP](https://notes.jugshaurya.in/docs/cpp)
 - [Algorithms](https://notes.jugshaurya.in/docs/algo)
@@ -33,7 +32,6 @@
 - [Game Theory](https://notes.jugshaurya.in/docs/gameTheory)
 - [Dynamic Programming](https://notes.jugshaurya.in/docs/dp)
 - [Interview Question List](https://notes.jugshaurya.in/docs/questions)
-
 - [Gatsby](https://notes.jugshaurya.in/docs/gatsby)
 - [Postgresql](https://notes.jugshaurya.in/docs/postgresql)
 
