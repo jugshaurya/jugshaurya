@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Shaurya Singhal 🇮🇳</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Shaurya Singhal 🇮🇳</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jugshaurya&label=Profile Views&color=blue&style=plastic" alt="jugshaurya" /> </p>
 
