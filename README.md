@@ -1,7 +1,19 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Shaurya Singhal 🇮🇳</h1>
+<h1 align="center">Hi <img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" height="60px" width="1px">, I'm Shaurya Singhal 🇮🇳</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jugshaurya&label=Profile Views&color=blue&style=plastic" alt="jugshaurya" /> </p>
+
+<a href="https://twitter.com/jugshaurya">
+  <img align="left" alt="Shaurya Singhal| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/jugshaurya/">
+  <img align="left" alt="Shaurya's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://medium.com/@shauryasinghal84">
+  <img align="left" alt="Shaurya's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+<br/>
+<br/>
 
 ### Experience/Achievements/Recent Failures
 
