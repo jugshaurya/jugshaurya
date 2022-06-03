@@ -47,7 +47,7 @@
 - [Gatsby](https://notes.jugshaurya.in/docs/gatsby)
 - [Postgresql](https://notes.jugshaurya.in/docs/postgresql)
 
-## Wanna Learn the L🇮🇳atest Tech ?
+## Wanna Learn the Latest Tech ?
 
 - [Learn Python](https://github.com/jugshaurya/Learn-Python/tree/master/1-Learn-Python)
 - [Learn ML](https://github.com/jugshaurya/Machine-Learning)
