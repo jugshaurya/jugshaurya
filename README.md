@@ -41,6 +41,7 @@
 - [CPP](https://notes.jugshaurya.in/docs/cpp)
 - [Algorithms](https://notes.jugshaurya.in/docs/algo)
 - [Advance DS for CP](https://notes.jugshaurya.in/docs/advance-ds_approaches)
+- [Graphs](https://notes.jugshaurya.in/docs/graphs)
 - [Game Theory](https://notes.jugshaurya.in/docs/gameTheory)
 - [Dynamic Programming](https://notes.jugshaurya.in/docs/dp)
 - [Interview Question List](https://notes.jugshaurya.in/docs/questions)
