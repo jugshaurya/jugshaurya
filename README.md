@@ -17,7 +17,7 @@
 
 ### Experience/Achievements/Recent Failures
 
-- I am a **M.C.A 2rd Year Computer Science Student** @ University of Delhi, Department of Computer Science.
+- I am a **M.C.A 2<sup>nd</sup> Year Computer Science Student** @ University of Delhi, Department of Computer Science.
 - **Open source contributor** at
   - [**@react-native-elements**](https://github.com/react-native-elements) : Last Contribution in 2021 end, [**9 Merged PRs**](https://github.com/react-native-elements/playground/commits?author=jugshaurya) + [**1 Merged PRs**](https://github.com/react-native-elements/react-native-elements/commits?author=jugshaurya) , 5+ Pending PR so far.
   - [**@codingBlocks**](https://github.com/coding-blocks) : Last Contribution in 2020. [**12 Merged PRs**](https://github.com/coding-blocks/gondor/commits?author=jugshaurya) so far.
