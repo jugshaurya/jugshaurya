@@ -1,105 +1,82 @@
 
-<h1 align="center">Hi <img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" height="60px">, I'm Shaurya Singhal 🇮🇳</h1>
+<h1 align="center">Hi<img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" height="60px">, I'm Shaurya Singhal 🇮🇳</h1>
+<p align="left">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jugshaurya&label=Profile Views&color=blue&style=plastic" alt="jugshaurya" /> </p>
+<img src="https://komarev.com/ghpvc/?username=jugshaurya&label=Profile Views&color=blue&style=flat-square" alt="jugshaurya" />
+</p>
 
-<a href="https://twitter.com/jugshaurya">
-  <img align="left" alt="Shaurya Singhal| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/jugshaurya/">
-  <img align="left" alt="Shaurya's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://medium.com/@shauryasinghal84">
-  <img align="left" alt="Shaurya's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<br/>
-<br/>
+<p align="left">
+  <a href="https://twitter.com/jugshaurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jugshaurya" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/jugshaurya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jugshaurya" height="30" width="40" /></a>
+  <a href="https://medium.com/@shauryasinghal84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shauryasinghal84" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/jugshaurya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jugshaurya" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/jugshaurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jugshaurya" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/jugshaurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jugshaurya" height="30" width="40" /></a>
+</p>
 
 ### Experience/Achievements/Recent Failures
 
-- Working as a **Software Engineer** @Info Edge Ltd. (naukri.com -> firstNaukri.com).
-- I completed my **M.C.A Computer Science** from the University of Delhi, Department of Computer Science.
-- **Open source contributor** at
-  - [**@react-native-elements**](https://github.com/react-native-elements) : Last Contribution in 2021 end, [**9 Merged PRs**](https://github.com/react-native-elements/playground/commits?author=jugshaurya) + [**1 Merged PRs**](https://github.com/react-native-elements/react-native-elements/commits?author=jugshaurya) , 5+ Pending PR so far.
-  - [**@codingBlocks**](https://github.com/coding-blocks) : Last Contribution in 2020. [**12 Merged PRs**](https://github.com/coding-blocks/gondor/commits?author=jugshaurya) so far.
-    - [**Ranked 6th in BOSS'20**](https://boss.codingblocks.com/leaderboard/2020)
-- Cleared **Gate'21 with AIR 2547**.
-- Udacity Nanodegree Graduate | React 
-- **Recent Failure: GSOC'21**. Couldn't get a slot. Will try again someday💎 as now it is open to everyone and not just students.
+-   Working as a **Software Engineer** @Info Edge Ltd. (naukri.com -> firstnaukri.com)
+-   I completed my **M.C.A Computer Science** from the University of Delhi, Department of Computer Science.
+-   **Open source contributor** at
+    -   [**@react-native-elements**](https://github.com/react-native-elements) : Last Contribution in 2021 end, [**9 Merged PRs**](https://github.com/react-native-elements/playground/commits?author=jugshaurya) + [**1 Merged PRs**](https://github.com/react-native-elements/react-native-elements/commits?author=jugshaurya) , 5+ Pending PR so far.
+    -   [**@codingBlocks**](https://github.com/coding-blocks) : Last Contribution in 2020. [**12 Merged PRs**](https://github.com/coding-blocks/gondor/commits?author=jugshaurya) so far.
+        -   [**Ranked 6th in BOSS'20**](https://boss.codingblocks.com/leaderboard/2020)
+-   Cleared **Gate'21 with AIR 2547**.
+-   **Ranked 632** in Google Roung H 2022, Google Kickstart.
+-   Udacity Nanodegree Graduate | React
+-   **Recent Failure: GSOC'21**. Couldn't get a slot. Will try again someday💎 as now it is open to everyone and not just students.
 
-### About me
+## About me
 
-- 🔭 I’m currently working on _C++, DataStructures & Algorithm, developing skills, javascript, side projects, open source_.
-- 🌱 I’m currently learning anything _related to Javascript, GraphQL, React, Competitive Programming, Problem Solving._
-- 🤔 Anyone looking for help can reach out.
-- 📫 How to reach me: Email me at - **shauryasinghal84@gmail.com**
-- 📫 Visit my Portfolio - **https://www.jugshaurya.in/**
-- ⚡ Fun fact: _I love JavaScript ❤️ but currently in relationship with C++._
+-   🔭 I’m currently working on _C++, Data Structures & Algorithms, developing skills, JavaScript, side projects, and open-source_.
+-   🌱 I’m currently learning anything related to _Javascript, GraphQL, React, Competitive Programming, and Problem Solving._
+-   🤔 Anyone looking for help can reach out.
+-   📫 How to contact me: Feel free to email me at: **shauryasinghal84@gmail.com**
+-   📫 Visit my Portfolio - [https://jugshaurya.vercel.app/](https://jugshaurya.vercel.app/)
+-   ⚡ Fun fact: _I love JavaScript❤️ but am currently in relationship with C++.🤣_
 
-## Read Notes to quickly revise vaious Topics 
+### 🔝 Top Contributed Repo / Opensource
+
+![](https://github-contributor-stats.vercel.app/api?username=jugshaurya&limit=5&theme=light&combine_all_yearly_contributions=true)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jugshaurya&theme=light&&include_all_commits=true&count_private=true&show_icons=true" alt="jugshaurya" /></p>
+
+## Notes to quickly revise vaious Topics
+
 ##### visit my notes website @https://notes.jugshaurya.in/.
-- [STL](https://notes.jugshaurya.in/docs/stl)
-- [CPP](https://notes.jugshaurya.in/docs/cpp)
-- [Algorithms](https://notes.jugshaurya.in/docs/algo)
-- [Advance DS for CP](https://notes.jugshaurya.in/docs/advance-ds_approaches)
-- [Graphs](https://notes.jugshaurya.in/docs/graphs)
-- [Game Theory](https://notes.jugshaurya.in/docs/gameTheory)
-- [Dynamic Programming](https://notes.jugshaurya.in/docs/dp)
-- [Interview Question List](https://notes.jugshaurya.in/docs/questions)
-- [Gatsby](https://notes.jugshaurya.in/docs/gatsby)
-- [Postgresql](https://notes.jugshaurya.in/docs/postgresql)
 
-## Wanna Learn the Latest Tech ?
+-   [STL](https://notes.jugshaurya.vercel.app/docs/stl)
+-   [CPP](https://notes.jugshaurya.vercel.app/docs/cpp)
+-   [Algorithms](https://notes.jugshaurya.vercel.app/docs/algo)
+-   [Graph Theory + Programming](https://notes.jugshaurya.vercel.app/docs/graphs)
+-   [Advance DS for CP](https://notes.jugshaurya.vercel.app/docs/advance-ds_approaches)
+-   [Game Theory](https://notes.jugshaurya.vercel.app/docs/gameTheory)
+-   [Dynamic Programming](https://notes.jugshaurya.vercel.app/docs/dp)
+-   [Maths & Aptitude](https://notes.jugshaurya.vercel.app/docs/maths-and-aptitude)
+-   [Interview Question List](https://notes.jugshaurya.vercel.app/docs/questions)
+-   [Gatsby](https://notes.jugshaurya.vercel.app/docs/gatsby)
+-   [Postgresql](https://notes.jugshaurya.vercel.app/docs/postgresql)
 
-- [Learn Python](https://github.com/jugshaurya/Learn-Python/tree/master/1-Learn-Python)
-- [Learn ML](https://github.com/jugshaurya/Machine-Learning)
+## Want to learn about the Latest Tech?
 
-### 📚 Recent Blog Posts
+-   [Learn Python](https://github.com/jugshaurya/Learn-Python/tree/master/1-Learn-Python)
+-   [Learn ML](https://github.com/jugshaurya/Machine-Learning)
 
-- [Learning Python — Starting with Data Types.](https://medium.com/@shauryasinghal84/learning-python-starting-with-data-types-bc215a24086a)
-- [Difference Between Some Terms that makes you a Better Developer](https://medium.com/@shauryasinghal84/difference-between-some-terms-that-makes-you-a-better-developer-e4da04a74925)
+### Skills/Languages and Tools
 
-### Skills
+<p align="left"> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+</p>
 
-<div style="display:flex;flex-direction:row">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />
-    <img src="https://img.shields.io/badge/gatsby.js-000000?style=for-the-badge&logo=gatsby-dot-js&logoColor=white" />
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-    <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
-    <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-</div>
+## 📚 Recent Blog Posts
 
-### Languages/Tools/Databases
+<img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=10&username=@shauryasinghal84&theme=light" alt="Last medium posts">
 
-<div style="display:flex;flex-direction:row">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
+<!-- -   [Learning Python — Starting with Data Types.](https://medium.com/@shauryasinghal84/learning-python-starting-with-data-types-bc215a24086a)
+-   [Difference Between Some Terms that makes you a Better Developer](https://medium.com/@shauryasinghal84/difference-between-some-terms-that-makes-you-a-better-developer-e4da04a74925) -->
 
-## Planning to Learn
+## Find any issue/typo in Notes
 
-<div style="display:flex;flex-direction:row">
-    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-    <img src="https://img.shields.io/badge/POSTGRESQL-00000F?style=for-the-badge&logo=postgrsql&logoColor=white" />
-</div>
+-   Correct [@github](https://github.com/jugshaurya/Notes/tree/main/docs)
 
-### Connect with me
-
-[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:shauryasinghal84@gmail.com)
-[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/jugshaurya)
-[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/jugshaurya)
-[<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/jugshaurya)
-[<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@shauryasinghal84)
-[<img src="https://github.com/jugshaurya/jugshaurya/blob/main/Assets/codechef.svg" alt="Codechef Logo" width="30">](https://www.codechef.com/jugshaurya)
-[<img src="https://github.com/jugshaurya/jugshaurya/blob/main/Assets/codeforces.svg" alt="Codeforces Logo" width="30">](https://codeforces.com/profile/jugshaurya)
-[<img src="https://github.com/jugshaurya/jugshaurya/blob/main/Assets/leetcode.svg" alt="Leetcode Logo" width="30">](https://www.leetcode.com/jugshaurya)
