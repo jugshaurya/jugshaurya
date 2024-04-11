@@ -43,7 +43,7 @@
 
 ## Notes to quickly revise vaious Topics
 
-##### visit my notes website @https://notes.jugshaurya.vercel.app.
+##### visit my notes website @ https://notes.jugshaurya.vercel.app/docs/intro
 
 -   [STL](https://notes.jugshaurya.vercel.app/docs/stl)
 -   [CPP](https://notes.jugshaurya.vercel.app/docs/cpp)
