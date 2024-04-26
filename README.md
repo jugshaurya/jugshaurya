@@ -23,6 +23,7 @@
         -   [**Ranked 6th in BOSS'20**](https://boss.codingblocks.com/leaderboard/2020)
 -   Cleared **Gate'21 with AIR 2547**.
 -   **Ranked 632** in Google Roung H 2022, Google Kickstart.
+-   **Ranked 1057** in Biweekly Contest 128, Leetcode.
 -   Udacity Nanodegree Graduate | React
 -   **Recent Failure: GSOC'21**. Couldn't get a slot. Will try again someday💎 as now it is open to everyone and not just students.
 
