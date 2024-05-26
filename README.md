@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi<img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" height="60px">, I'm Shaurya Singhal 🇮🇳</h1>
+<h1 align="center">Hi<img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" height="60px">, I'm Shaurya Singhal</h1>
 <p align="left">
 
 </p>
